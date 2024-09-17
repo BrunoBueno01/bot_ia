@@ -1,0 +1,2 @@
+0 Piedras preciosas
+1 Piedra normales
